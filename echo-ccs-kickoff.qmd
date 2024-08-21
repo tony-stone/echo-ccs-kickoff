@@ -1,0 +1,114 @@
+---
+title: "<u>E</u>du<u>c</u>ation and longer-term <u>H</u>ealth <u>O</u>utcomes for <u>C</u>hildhood <u>C</u>ancer <u>S</u>urvivors"
+subtitle: "ECHO-CCS"
+date: 2024-08-21
+date-format: "D MMM YYYY"
+format: 
+  revealjs:
+    smaller: true
+    logo: imgs/logo.png
+    theme: simple
+---
+
+## Award summary
+
+* **Funders:** <br /> [Cancer Research UK](https://news.cancerresearchuk.org/2024/05/29/harnessing-the-power-of-data-for-paediatric-cancer-research/) 
+  and [Children with Cancer UK](https://www.childrenwithcancer.org.uk/childhood-cancer-info/we-fund-research/projects-we-fund/childhood-cancer-diagnosis-impact-school-attendance/)
+  (jointly)
+  
+* **Call:** <br />
+  [Data for Children’s and Young People’s Cancer (Data4CYP) Pilot Award](https://www.cancerresearchuk.org/funding-for-researchers/our-funding-schemes/data-for-childrens-and-young-peoples-cancer-pilot-award)
+* **Dates:** <br /> July 2024 to June 2026 (24 months)
+
+* **Funded staff:** <br />
+    * Tony Stone, Data Scientist / Senior Research Fellow (60% WTE, 24 months)
+    * RA from July 2025, (100% WTE, 12 months)
+
+
+## Project summary
+
+* **Full Title:** <br /> 
+  Education and longer-term health outcomes for childhood cancer survivors: 
+  linkage of cancer registration data to the ECHILD database for use by UK 
+  researchers 
+  
+* **Aims:**
+
+    a) Create (England-wide) population-level, longitudinal database of hospital and 
+      education records linked with childhood cancer registrations data
+      
+    a) Quantify differences between childhood cancer survivors and peers with 
+      no childhood cancer diagnosis, in: 
+      
+        1. Academic attainment trajectories and school support up to age 16
+        
+        1. Longer-term (into adulthood) healthcare utilisation and mortality
+
+
+
+## Aim a) Linked hospital, education and childhood cancer registration records
+
+* Existing UCL [ECHILD programme](https://www.echild.ac.uk): 
+  A research database linking Education (Department for Education [DfE] 
+  supplied) and Health-related (NHS England supplied) records for people in 
+  England born since September 1984
+
+* Planned: incorporate, NHS England National Disease Registration Service (NDRS)
+  managed, cancer registration and treatment data into ECHILD (for same cohort)
+
+* Update: On 22 July 2024, DfE and NHS England informed ECHILD project team 
+  that they would not facilitate the provision of further data under the 
+  existing ECHILD licensing agreement. They may reconsider this position.
+  
+* Funder (CRUK) has been informed
+
+* *We had already included an alternative approach for Aim b)*
+
+## Aim b) Quantify differences between people with- and without- a diagnosis of cancer in childhood
+
+* Approach 1: Using birth cohorts in available ECHILD data (i.e. assume full 
+  longitudinal healthcare record) identify incident diagnosis of cancer within 
+  admitted hospital care data
+  
+* Approach 2 (pending data): Use English national cancer registration data
+
+* Investigate differences by: age at diagnosis; sex; ethnicity; 
+  area-based deprivation; geography; cancer type (leukaemia; 
+  brain and central nervous system tumours; lymphomas; all other cancer types); 
+  treatment modality/ies; stage at diagnosis (if available); period (of time).
+
+
+## Aim b) 1) Academic attainment trajectories and school support
+
+Outcomes (generally differing cohorts):
+
+* Academic attainment at Key Stage (KS) 4 conditional on KS2 attainment
+
+* Academic attainment at Early Years Foundation Stage
+
+* Academic attainment at Key Stage 1 
+
+* Academic attainment at Key Stage 2 conditional on KS1 performance 
+
+* Academic attainment at Key Stage 2 not conditional on KS1 performance 
+
+* Academic attainment at Key Stage 4 not conditional on KS2 
+
+* School absence rate 
+
+* Special Educational Needs (SEN) provision and type (e.g. Enrolment in specialist 
+  provision; Education, Health and Care Plan (EHCP) in mainstream school; SEN 
+  support in mainstream school; No SEN provision)
+
+## Aim b) 2) Longer-term (into adulthood) healthcare utilisation and mortality
+
+* Mortality 
+
+* Emergency Department contact rate 
+
+* Unplanned admission to hospital rate 
+
+* Planned admission to hospital rate 
+
+* Outpatient department attendance rate 
+
